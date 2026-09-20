@@ -5,3 +5,4 @@
 miniconda，torch,torchvision,d2l
 ## 项目目录
 --SSD 单发多框检测
+--语义分割 dataset loading
