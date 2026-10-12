@@ -7,3 +7,5 @@ miniconda，torch,torchvision,d2l
 --SSD 单发多框检测
 --语义分割 dataset loading
 --转置卷积 coding
+--序列模型——有噪声的sin函数预测
+--文本预处理——Time Machine.txt Tokenlize
