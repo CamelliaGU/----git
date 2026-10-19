@@ -9,3 +9,4 @@ miniconda，torch,torchvision,d2l
 --转置卷积 coding
 --序列模型——有噪声的sin函数预测
 --文本预处理——Time Machine.txt Tokenlize
+--语言模型和数据集创建，SeqDataLoader迭代器实现
